@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ajit Raj
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Problem+Solver+(DSA);Building:+AI+Habit+Tracker+Engine;Mastering+Google+Gemini+AI" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Problem+Solver+(DSA);Building+AI+Habit+Tracker" alt="Typing Effect" />
 </div>
 
 ---
@@ -12,9 +12,9 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>💻 <b>Core Architecture:</b> Passionate full-stack developer engineer focused on constructing reactive scalable pipelines.</li>
-        <li>⚡ <b>Algorithmic Vector:</b> Deeply into Data Structures & Algorithms, regular competitive programming compiler optimizations.</li>
-        <li>🛠️ <b>Current Activity Module:</b> Developing an autonomous behavioral tracker integrated with <b>Google Gemini Pro LLM</b> context streams.</li>
+        <li>💻 <b>Core Architecture:</b> Passionate full-stack developer focused on building scalable web applications.</li>
+        <li>⚡ <b>Algorithmic Vector:</b> Deeply into Data Structures & Algorithms, regularly solving problems and optimizing code.</li>
+        <li>🛠️ <b>Current Activity Module:</b> Developing an advanced, autonomous habit tracking engine integrated with AI insights.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -64,10 +64,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn Pipeline" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ajitraj45585@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email Vector" />
-  </a>
-</div>
-
-<br />
--->
+  <a href="
